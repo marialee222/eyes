@@ -8,8 +8,7 @@ The Eye Exercise is a fun and visually appealing project that creates interactiv
 
 ### Improvements
 Updates made to enhance user experience and functionality:
-The original exercise created a pair of eyes that follow mouse movement.  The primary improvement made was the addition of blinking effect triggered every 5 seconds.  
-In addition, the following updates were made: 
+The original exercise created a pair of eyes that follow mouse movement.  The primary improvement made was the addition of blinking effect triggered every 5 seconds.  In addition, the following updates were made: 
  - a pupil inside each eye
  - box shadow for depth for the eye
  - adjustments to height of the eyes and pupils to simulate blinking
