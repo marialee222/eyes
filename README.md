@@ -18,7 +18,7 @@ To run the Eyes exercise on your machine, follow these steps:
 1. Clone the repo: git clone https://github.com/marialee222/eyes.git
 2. Open the project directory: cd eyes
 3. Open index.html in your web browser. 
-4. Explore the eye and background customization options!
+4. Explore the customization options for eyes and background color!
 
 <img width="200" alt="eyes1" src="https://github.com/marialee222/eyes/assets/150623001/83f619df-5425-4db8-810f-c908bc714526">
 <img width="200" alt="eyes2" src="https://github.com/marialee222/eyes/assets/150623001/090a89b4-5f4a-4e7b-9798-f23c15c9b48b">
