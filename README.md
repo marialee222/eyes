@@ -1,19 +1,35 @@
 #### MIT xPRO Fullstack Development
-## Eyes
-Simulation link: [Eyes](https://marialee222.github.io/eyes/index.html)
+## Eyes Exercise
+### EyeMotion: Interactive Eye Animation with HTML, CSS, and JavaScript
+Simulation link: [eyes](https://marialee222.github.io/eyes/)
 
-In this exercise, the JavaScript code utilizes the Document Object Model (DOM) to create an interactive effect with pupils on a webpage. The JavaScript code creates a dynamic effect where two elements with the class 'ball' on the webpage move in response to the user's mouse movement, creating an interactive and visually engaging experience.
+## Description
+The Eye Exercise is a fun and visually appealing project that creates interactive eye animations using HTML, CSS, and JavaScript. The project features a pair of expressive eyes that follow the user's mouse movements, creating an engaging and interactive experience.  The eyes are not only responsive to user actions but can also be customized to suit user preferences.
 
-No installation or setup instructions.
+### Improvements
+Updates made to enhance user experience and functionality:
+- The primary improvement made was  implementing customization options for users to customize eye colors, background colors, and other visual elements.
+-added a <div class="pupil"></div> inside each eye to represent the pupils (HTML)
+-box shadow for depth for the eye (CSS)
+-added customization panel for the eye color and background color
 
-This project can be used to learn:
-1) The code uses document.getElementsByClassName('ball') to select all elements with the class 'ball' and stores them in the balls variable.
-2) The document.onmousemove event handler is set up to respond to mouse movements on the document.
-3) A loop iterates over the 'ball' elements (presumably, there are at least two), and their style.left and style.top properties are updated to reflect the calculated x and y values. This visually positions the 'balls' on the page based on mouse movement.
-4) The transform property is used to apply a CSS transform to each 'ball', causing it to move in the opposite direction of the mouse. The translate function is employed for this purpose.
+## How to Run
+To run the Eyes exercise on your machine, follow these steps:
+1. Clone the repo: git clone https://github.com/marialee222/eyes.git
+2. Open the project directory: cd eyes
+3. Open index.html in your web browser.
+4.Explore the following customization options:
+	• Eye Color: Use the color picker to select the desired eye color.
+	• Background Color: Choose a background color that complements the eyes' animation.
+	• Animation Speed: Adjust the animation speed slider to control the pace of the eye movement.
+	
+## Roadmap of Future Improvements
+Future improvements for the Eyes Exercise include:
+ - Multiple Sets of Eyes: Allow the addition of multiple sets of eyes with different behaviors, creating a more interactive experience.
+ - Responsive Design: Ensure the project is responsive on various devices and screen sizes.
+ - Interactive Controls: Introduce interactive controls to enable users to toggle features or trigger specific animations.
 
-Please comment to leave general comments or questions.  You can suggest changes that I can apply directly from your comment.
+:star: Feel free to contribute ideas or collaborate on these enhancements! :star:
 
-Future iterations will include features to make it...
-
-This is a work in progress.  Please feel free to expand and build upon the source code.  Feedback is welcome!
+### License
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).![image](https://github.com/marialee222/eyes/assets/150623001/75ab5433-d1a5-4e29-b0a4-88207dd66db8)
