@@ -22,8 +22,11 @@ To run the Eyes exercise on your machine, follow these steps:
 	• Eye Color: Use the color picker to select the desired eye color.
 	• Background Color: Choose a background color that complements the eyes' animation.
 
+<img width="200" alt="eyes1" src="https://github.com/marialee222/eyes/assets/150623001/83f619df-5425-4db8-810f-c908bc714526">
+<img width="200" alt="eyes2" src="https://github.com/marialee222/eyes/assets/150623001/090a89b4-5f4a-4e7b-9798-f23c15c9b48b">
+<img width="200" alt="eyes3" src="https://github.com/marialee222/eyes/assets/150623001/e77e1021-5b84-42ea-b7a0-a41f7965d16e">
+<img width="200" alt="eyes4" src="https://github.com/marialee222/eyes/assets/150623001/3eae7356-039d-4a33-9cab-0c15687b6020">
 
-<img width="200" alt="eyes" src="https://github.com/marialee222/eyes/assets/150623001/3c6da44e-f5b3-42f0-9a7e-e7f2bd62e34a">
 
 	
 ## Roadmap of Future Improvements
