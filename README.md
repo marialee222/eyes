@@ -8,10 +8,10 @@ The Eye Exercise is a fun and visually appealing project that creates interactiv
 
 ### Improvements
 Updates made to enhance user experience and functionality:
-- The primary improvement made was  implementing customization options for users to customize eye colors, background colors, and other visual elements.
--added a <div class="pupil"></div> inside each eye to represent the pupils (HTML)
--box shadow for depth for the eye (CSS)
--added customization panel for the eye color and background color
+ - The primary improvement made was  implementing customization options for users to customize eye colors, background colors, and other visual elements.
+ - added a <div class="pupil"></div> inside each eye to represent the pupils (HTML)
+ - box shadow for depth for the eye (CSS)
+ - added customization panel for the eye color and background color
 
 ## How to Run
 To run the Eyes exercise on your machine, follow these steps:
@@ -22,6 +22,10 @@ To run the Eyes exercise on your machine, follow these steps:
 	• Eye Color: Use the color picker to select the desired eye color.
 	• Background Color: Choose a background color that complements the eyes' animation.
 	• Animation Speed: Adjust the animation speed slider to control the pace of the eye movement.
+
+
+<img width="200" alt="eyes" src="https://github.com/marialee222/eyes/assets/150623001/3c6da44e-f5b3-42f0-9a7e-e7f2bd62e34a">
+
 	
 ## Roadmap of Future Improvements
 Future improvements for the Eyes Exercise include:
@@ -32,4 +36,4 @@ Future improvements for the Eyes Exercise include:
 :star: Feel free to contribute ideas or collaborate on these enhancements! :star:
 
 ### License
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).![image](https://github.com/marialee222/eyes/assets/150623001/75ab5433-d1a5-4e29-b0a4-88207dd66db8)
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
