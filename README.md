@@ -8,10 +8,10 @@ The Eye Exercise is a fun and visually appealing project that creates interactiv
 
 ### Improvements
 Updates made to enhance user experience and functionality:
- - a pupil inside each eye (HTML)
- - box shadow for depth for the eye (CSS)
+ - added a pupil inside each eye
+ - added box shadow for depth for the eye
  - adjusted height of the eyes and pupils to simulate blinking
- - customization options for users to customize eye colors, background colors (JS)
+ - added customization options for users to customize eye colors, background colors
 
 ## How to Run
 To run the Eyes exercise on your machine, follow these steps:
