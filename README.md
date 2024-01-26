@@ -20,7 +20,6 @@ To run the Eyes exercise on your machine, follow these steps:
 4. Explore the following customization options:
 	• Eye Color: Use the color picker to select the desired eye color.
 	• Background Color: Choose a background color that complements the eyes' animation.
-	• Animation Speed: Adjust the animation speed slider to control the pace of the eye movement.
 
 
 <img width="200" alt="eyes" src="https://github.com/marialee222/eyes/assets/150623001/3c6da44e-f5b3-42f0-9a7e-e7f2bd62e34a">
