@@ -36,4 +36,3 @@ Future improvements for the Eyes Exercise include:
 
 ### License
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
-![image](https://github.com/marialee222/eyes/assets/150623001/931f5019-6a32-4645-8404-8c236a8c6c97)
