@@ -8,10 +8,12 @@ The Eye Exercise is a fun and visually appealing project that creates interactiv
 
 ### Improvements
 Updates made to enhance user experience and functionality:
- - added a pupil inside each eye
- - added box shadow for depth for the eye
- - adjusted height of the eyes and pupils to simulate blinking
- - added customization options for users to customize eye colors, background colors
+The original exercise created a pair of eyes that follow mouse movement.  The primary improvement made was the addition of blinking effect triggered every 5 seconds.  
+In addition, the following updates were made: 
+ - a pupil inside each eye
+ - box shadow for depth for the eye
+ - adjustments to height of the eyes and pupils to simulate blinking
+ - customization options for users to customize eye colors, background colors
 
 ## How to Run
 To run the Eyes exercise on your machine, follow these steps:
